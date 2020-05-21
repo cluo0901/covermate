@@ -34,7 +34,7 @@
                                                 <li><a href="blog.php">Blog</a></li>
                                                 <li><a href="single-blog.php">Blog Details</a></li>
                                                 <li><a href="elements.php">Elements</a></li>
-                                                <li><a href="job_details.php">job Details</a></li>
+                                                <!-- <li><a href="job_details.php">job Details</a></li> -->
                                             </ul>
                                         </li>
                                         <li><a href="contact.php">Contact</a></li>
